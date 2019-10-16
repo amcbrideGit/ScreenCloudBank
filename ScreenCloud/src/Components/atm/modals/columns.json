@@ -1,0 +1,19 @@
+
+[
+  {
+    "Header": "Date",
+    "accessor": "Date"
+  }, {
+    "Header": "Description",
+    "accessor": "Description"
+  }, {
+    "Header": "Debits",
+    "accessor": "Debits"
+  }, {
+    "Header": "Credits",
+    "accessor": "Credits"
+  },{
+      "Header": "Balance",
+      "accessor": "Balance"
+  }
+]
